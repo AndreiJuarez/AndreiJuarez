@@ -10,7 +10,7 @@
 - 📫 How to reach me **andrei.juarez.cc@gmail.com**
 
 - 🤔 &nbsp; Exploring new technologies and developing web solutions.
-- 🎓 &nbsp; I study computer science and systems engineering at the BUAP.
+- 🎓 &nbsp; I study computer science and systems engineering at BUAP and Platzi.
 
  ## Front-End Technologies:
  
