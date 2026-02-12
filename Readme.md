@@ -10,9 +10,9 @@
 <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://www.instagram.com/andreijuarezcs" target="_blank" ><img src="./assets/social-media/instagram.svg" alt="Andreijuarezcs" width='30'></a>
 </div>
 
-- 🔭 I’m currently working to **Accesa Organization**
+- 🔭 I’m currently working to **Grupo Accesa**
 
-- 🌱 I’m currently learning **React, Python and Machine Learning**
+- 🌱 I’m currently FullStack Developer
 
 - 📫 How to reach me **andrei.juarez.cc@gmail.com**
 
