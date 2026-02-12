@@ -23,7 +23,7 @@
  
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,electron,js,typescript,html,css,tailwind,ps" />
+    <img src="https://skillicons.dev/icons?i=react,electron,js,typescript,html,css,tailwind,ps" />
   </a>
 </p>
 
