@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrei Jarez</h1>
 <h3 align="center">A FullStack Web Developer, from México</h3>
 
-![mi perfil](https://github.com/AndreiJuarez/AndreiJuarez/blob/main/Github-Banner/Banner1.png)
+![mi perfil](https://github.com/AndreiJuarez/AndreiJuarez/blob/main/Github-Banner/Banner1_2026.png)
 
 # Social Networks:
 <div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
